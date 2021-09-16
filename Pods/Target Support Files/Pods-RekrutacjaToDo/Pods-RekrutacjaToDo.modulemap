@@ -1,0 +1,6 @@
+framework module Pods_RekrutacjaToDo {
+  umbrella header "Pods-RekrutacjaToDo-umbrella.h"
+
+  export *
+  module * { export * }
+}
